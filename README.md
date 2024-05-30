@@ -1,6 +1,3 @@
-Claro, com prazer! Aqui está um modelo de README que você pode usar para o seu projeto de estudo de Python para banco de dados e outras ferramentas. Lembre-se de personalizá-lo com as informações específicas do seu projeto e das suas experiências de aprendizado.
-
-```markdown
 # Projeto de Estudo Python: Banco de Dados e Ferramentas
 
 ## Descrição do Projeto
@@ -33,8 +30,8 @@ Este projeto é principalmente para meu próprio aprendizado, mas se você tiver
 Este projeto está licenciado sob a MIT License - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
 
 ## Contato
-- LinkedIn: [Seu LinkedIn]
-- E-mail: [seuemail@exemplo.com]
+- LinkedIn: [https://www.linkedin.com/in/eduardo-pessoa-b5141615/]
+- E-mail: [eduardo@phoenyx.com.br]
 
 ## Agradecimentos
 Gostaria de agradecer a todas as comunidades online, tutores, amigos e familiares que me apoiaram nesse caminho de aprendizado.
